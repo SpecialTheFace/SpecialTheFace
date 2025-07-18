@@ -1,5 +1,5 @@
 ### Hi there 👋 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小索同学祝您今天愉快!&center=true&size=27" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+Word%22);%3C%E5%B0%8F%E7%B4%A2%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!" alt="Typing SVG" /></a>
 <img src='./assets/gif3.gif' />
 
 <div style='display:flex;margin-bottom:30px; flex-wrap: nowrap;'>
