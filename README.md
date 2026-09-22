@@ -9,12 +9,8 @@
 </div>
   <img src='./assets/hr.gif'  style="display:inline-block;width:999px;" >
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=SpecialTheFace&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
 
   <img src='./assets/hr.gif'  style="display:inline-block;width:999px;" >
-
-<h4>下面的用的还算顺手😁</h4>
 
 <div style='margin-bottom:30px;'>
 <img src='./assets/html.webp' style="display:inline-block;width:100px;height:100px" />
